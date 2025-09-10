@@ -1,5 +1,5 @@
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-openjdk:8-jre-slim--platform=arm64
-openjdk:8-jdk-slim--platform=arm64 
+openjdk:8-jre-slim--platform=linux/arm64
+openjdk:8-jdk-slim--platform=linux/arm64
